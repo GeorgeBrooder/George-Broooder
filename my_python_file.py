@@ -1,2 +1,4 @@
-print("My First Repo")
-git init
+# print("My First Repo")
+# git init
+
+cd directory
